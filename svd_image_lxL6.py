@@ -37,7 +37,6 @@ print("p is :", p)
 print("q is :", q)
 # 取前k个特征，对图像进行还原
 #get_image_feature(s, 5)
-get_image_feature(s, 50)
+get_image_feature(s, 100)
 get_image_feature(s, 500)
-#get_image_feature(s, 1000)
 
